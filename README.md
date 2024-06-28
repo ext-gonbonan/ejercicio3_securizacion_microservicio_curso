@@ -1,4 +1,4 @@
-# Ejercicio 1: Desarrollo de Microservicio CRUD de Cursos
+# Ejercicio 3: Securización Microservicio Curso
 
 ## Descripción del Proyecto
 
