@@ -35,7 +35,7 @@ Este proyecto implementa un microservicio RESTful securizado para la gestión de
 ### Pasos para Configurar
 
 1. **Clonar el Repositorio**
-   - `git clone [URL del repositorio]`
+   - `git clone https://github.com/ext-gonbonan/ejercicio3_securizacion_microservicio_curso.git`
    
 2. **Configurar la Base de Datos**:
    - Crea una base de datos MySQL llamada `cursosdb`.
